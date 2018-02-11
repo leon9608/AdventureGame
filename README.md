@@ -1,11 +1,5 @@
-# CS 296-25 Honors Project
 
-## Installation
-
-Do a `git pull` in your repository.
-
-## Usage
-
+This is a final project done by my group.
 To run the program, use `lein run` from the command line.
 
 ## License
